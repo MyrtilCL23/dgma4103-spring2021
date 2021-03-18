@@ -1,26 +1,26 @@
 header{
   text-align: center;
-  background-color: #005a42
+  background-color: #4b4068
 }
 footer{
   text-align:center;
-  background-color: #005a42
+  background-color: #4b4068
 }
 body{
   font-family: sans-serif;
-  background-color: #004331
+  background-color: #564977
 }
 h1{
   color: black;
-  font-family: cursive;
+  font-family:fantasy;
 }
 h2{
   color: black;
-  font-family: cursive;
+  font-family:fantasy;
 }
 h3{
   color: black;
-  font-family: cursive;
+  font-family:fantasy;
 }
 p{
   font-size: 10px
