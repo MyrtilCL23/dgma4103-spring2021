@@ -2,17 +2,26 @@ header{
   text-align: center;
   background-color: #005a42
 }
-
-body{
-  font-family: sans-serif;
+footer{
+  text-align:center;
   background-color: #005a42
 }
-h1{
-  color: Black;
-  font-family: cursive;
-
+body{
+  font-family: sans-serif;
+  background-color: #004331
 }
-div {
-  background-color: #b8d02c
-  font-family:serif;
+h1{
+  color: black;
+  font-family: cursive;
+}
+h2{
+  color: black;
+  font-family: cursive;
+}
+h3{
+  color: black;
+  font-family: cursive;
+}
+p{
+  font-size: 10px
 }
