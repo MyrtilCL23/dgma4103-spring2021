@@ -1,18 +1,27 @@
 header{
   text-align: center;
+  background-color: #005a42
 }
 footer{
   text-align:center;
+  background-color: #005a42
 }
 body{
-  font-size: Tahoma
+  font-family: sans-serif;
+  background-color: #004331
 }
 h1{
-  color: Green;
+  color: black;
+  font-family: cursive;
 }
 h2{
-  color: Green;
+  color: black;
+  font-family: cursive;
 }
 h3{
-  color: Green;
+  color: black;
+  font-family: cursive;
+}
+p{
+  font-size: 10px
 }
